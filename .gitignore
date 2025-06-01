@@ -1,4 +1,5 @@
 .idea/*
+*.log
+/logs
 *.iml
 target/*
-*.log
